@@ -1,0 +1,464 @@
+﻿Aloha de Chocobo - FF9
+8 w [to] w 5 i y w 8 w [tu] w [tu] w [tu] w
+8 w [to] w 5 i y w 8 w [tu] w [tu] w [tu] w
+5 r i u o i r i, [5r] i u o i r i
+8 w [to] w 5 i y w 8 w [tu] w [tu] w [tu] w
+8 w [to] w 5 i y w 8 w [tu] w [tu] w [tu] w
+[8o] w u t e o u t [8u] w t w u w E y
+[8t] t-y-t E t w i u [8t] t-u-o p P t r t
+[8o] w u t e o u t [8u] w t w u w E y
+[8t] t-y-t E t w i u [8t] t-u-o p P t r t
+[qp] q i y [5r] y i p [to] 8 [is] 8 [to] 8 u o
+[9i] u y t [5r] t y r [8t] t-y-t E t E o t
+[qp] q i y [7r] Y I p [ro] 8 [is] 8 [to] 8 u o
+y y-u-y t y E i u [5y] y-u-i o p i a o
+[8s] w [to] w 5 i y w 8 w [tu] w [tu] w [tu] [8wos]
+
+FF IX - Song of Memory
+q e t i [op] i [ut] e
+q E y i s i [oy] E
+q e t i [op] i [ut] e
+q E T i [syi] [PT]
+|o [pt] P [0o]
+[pteq] o p s [outw],
+op P p P d p i
+[dyq] s [sp] P [PT] p [oyte] p
+[PE] y i o [utw],
+t [pq] [oe] [pt] [se] [to] u o op
+P p P [su] [di] [su]
+[PY] p [py] o [ouw] 
+q [sou] P P p [put] o [iut] u
+[iq] e [ot] p [ue] r t u
+u i u t y 
+E e P p [py] o [oq] E [it] y
+[ut]io 
+E y t u
+[iq] e [ot] p [se] r [pt] u
+E t E e E 
+E e P p p o o 
+y i s P P p p o p P
+[st] i o P o i y i [su] 
+p P p u o
+[oq] E y [it] i [ow] [pt] P
+[pq] e t i [op] i [ut] e
+q E y i s i [oy] E
+q e t i [op] i [ut] e
+q E T i [syi] [PT]
+|o [pt] P [0o] [pteq]
+
+FF 9 - Rose of May
+d f g [h8] w t y u o s, 
+s d P [p9] e y u i p d,
+d f g [h8] w t y u o s, 
+s d P [p9] e y u i p d,
+
+[dpiy] f g [htuo], h [jtip] h g [ftuo], 
+f [dpiy] f g [PE], P [pyir] j h [gyi] f s.
+[dpiy] f g [htuo], h [jtip] h g [ftuo] d s [PE] j h g f d [stuo] d f [dpiy],
+[dpiy] f g [htuo], h [jtip] h g [ftuo], f [dpiy] f g [PE], P [pyir] j h [gyi] f s
+[dpiy] f g [htuo], h [jtip] h g [ftuo] d s [PE] j h g f d [stuo] d f.
+[dpiy] e y [8l] w t [ul] o J [j4] q [th] [ig] p s [8l] w t h w [TJ] [j9] e [yh] [ig], 
+[8l] w t [ul] o J [j4] q [th] [ig], [js] [5h] 9 w [dr] [yf] [og] [8f] w t u o s,
+[8l] w t [ul] o J [j4] q [th] [ig] p s [8l] w t h w [TJ] [j9] e [yh] [ig], 
+[6j] 0 e j u [hp] [6g] q [fe] [dy], [gp] [0f] d [fr] H [fu] [HO] [6j] 0 w T u p
+
+4 8 w e 5 9 r t 6 0 r t w 5 9 e r e
+
+5 9 0 q w e r
+ffx-2 
+4 8 q w o y 5 9 w e o u 6 0 e r o y 3 7 Q w o t
+4 8 q w o y 5 9 w e o u 6 0 e r o y 3 7 Q w o t
+4 8 q w o y 5 9 w e o u 6 0 e r o y 3 7 Q w o t
+4 8 q w o y 5 9 w e o u 6 0 e r o y 3 7 Q w o r
+
+[l4] 8 k [hw] e d [l5] 9 k [hr] t g [f6] 0 z [zr] t w 5 9 e r e.
+[wh] [l4] 8 k [hw] e d [l5] 9 k [hr] t g [f6] 0 z [zr] t l [z5] 9 x [le] r e.
+
+[l4] 8 k [hw] e d [l5] 9 k [hr] t g [f6] 0 z [zr] t [lw] [z5] 9 e r e.
+[wh] [l4] 8 k [hw] e d [l5] 9 k [hr] t g [f6] 0 z [zr] t l [z5] 9 x [le] r k.
+
+4 8 q w o y 5 9 w e o u 6 0 e r o y 3 7 Q w o t
+4 8 q w o y 5 9 w e o u 6 0 e r o y 3 7 Q w o t
+4 8 q w o y 5 9 w e o u 6 0 e r o y 3 7 Q w o t
+4 8 q w o y 5 9 w e o u 6 0 e r o y 3 7 Q w o r
+
+[4h] 8 [9h] 0 w [je] [ht]
+5 9 0 q w [ef]-g-[rh], g f
+d6 0 q wf-ef t e r t r e
+6 0 q w e t e r t y t
+
+4 8 q w o y 5 9 w e o u 6 0 r-t-u-p-a-s-eu6
+
+FF X - ToZanarkand
+[aux] f h k [xy] C [vt]
+[ypz] d G j [zt] x C
+[tk] o [sk] d [fk] h [fhk]
+j z G r I a S D G k
+[ex] u [pax] a [sx] d [xfp] z v
+[ql] o s d f h l h l z x v
+[fo0] r u a [fo] G [a8h] w G y
+[fo] [so] [9d] e y [ufo] [dp] | [a5] 9 w e [rho] [yjp]
+[fo0] r u a [fo] G [a8h] w G y [oh]
+[9j] e y [ufh] [jy] | [5hk] 9 w e r y
+[fo0] r u a [fo] G [a8h] w G y 
+[fo] [so] [9d] e y [ufo] [dp], [a5] 9 w e [rho] [yjp]
+t a d f k k k, y s f k j z [seh] u o h G d
+[1wu] 3 5 8 0 w t u o s f o s f h
+[6jp] 0 e r [tlx] u [4lx] 8 [qzdk] [sejl] [wahk]
+5 9 w e r [yhv] [3hv]
+7 0 Q w e r d k C C, s e j [xj] [xj] Z
+7 6 [ay7] I a G a G [9af] w [rad] w [S]
+6 0 e [fjp] e [jp] $ * Q e T
+[ISH] f [S] [woa] G p [QTI] [up] [ar7]
+
+La cor da - Secret Garden
+u p a [6s] 0 t a [9s] e u [5s] [9d] [ra] p [0a] w u
+a [qa] s [ep] o [9p] e i o [0u] 7 0 Q W
+u p a [6s] 0 t a [9s] e i [5s] [9d] [ra] p [0a] w u
+a [qa] s [ep] o [9p] e i o [6p] 0 e r t
+u p a [6s] 0 t a [9s] e u [ws] [9d] [ra] p [0a] w u
+a [qa] s [ep] o [9p] e i o [0u] 7 0 Q W
+u p a [6s] 0 t a [9s] e i [ws] [9d] [ra] p [0a] w u
+a [qa] s [ep] o [9p] e i o [6p] 0 e r t
+a s h [qj] t p [9j] k [rh] [ig] [0h] r o
+a 6 [0a] [rs] [uf] [9g] e i p [5g] [9h] [af] [os] [0f] u r e
+a [5s] h [qj] t p [9j] k [rh] [ig] [0h] r o
+a [6h] j [rg] [uf] [9g] e i p [5g] [9h] [af] [od] [0f] r u I O
+u p a [6p] 0 e r t [qa] s [ep] o [9p] e i o [6p] 0 e r [6-t-u-p]
+
+
+Yiruma, River Flows in You
+[el] k l k [il] h l g 
+sf [el] k l k [il] h l g 
+sf [el] s k l s f k l i o h l o h g o [tf] o g o h o f [wd] y o p d s a
+[es] u o s f u s d [qf] i p d f i f g [th] o s d h o g f [wd] y o p d
+[e s f l] s k l s f k l i o h l o h g [tf] o g o h x | [oz] | [z x] l k
+[el] s f l | s d [qf] i p d f i f g [th] o s d h o g f [wd] y o p s d s a
+[es] u o u s d s a [qs] i o i s d s a [ts] d f g h f d s [wa] y o p s d s a
+[es] u o u s d s a [qs] i o i s d s a [ts] d f g h f d s [wa] y o p s s d s a
+[es] u o u s sds a [qs] i o i s sds a [ts] d f g h f d s [wa] y o p s sds a
+[es] u o u s sds a [qs] i o i s d s a [ts] d f g h f d s [wa] y o p a s f h
+[e s f l] k l k [il] h l g [tf] g h f [wd] y o sa
+[es] u o sd [qf] i p fg [th] o s gf [wd] y o p
+[e s f l] k l k [il] h l g [tf] g h x [oz] 
+o s a [es] u o sd [qf] i p fg [th] o s gf [wd] y o p [e u o s]
+
+Mad Worlds
+[es] f [ua] s [ep] a [uo] I 9 e u 9 y e s e f [ua] s [ep] a [us] d 9 e y o I u y e
+[es] f [ua] s [ep] a [uo] I 9 e u 9 y e s e f [ua] s [ep] a [us] d 9 e y o I 
+e | [tp] p [es] s [tp] p [tf] [sf] u f t s u [wad] d y d w a y [9pd] d y d 9 s [ya] p 
+e | [tp] p [es] s [tp] p [tf] [sf] u f t s u [wad] d y d w a y [9pd] d y d 9 s [ya] p 
+e | [tp] p [es] s [tp] p [tf] [sf] u f t s u [wad] d y d w a y [9pd] d y d 9 s [ya] p 
+e | [up] p [eps] s [sf] f G [ypd] e d G G [ypd] d [ep] u p [eps] s [sf] [sf] G d [ypd] [ed] G G [ypd] d 
+e | [up] p [eps] s [sf] f G [ypd] e d G G [ypd] d [ep] u p [eps] s [sf] [sf] G d [ypd] [ed] G G [ypd] d 
+
+
+Laputa - Castle in the sky [WIP]
+p a [es] | u p a s f [wa] | uo,
+uu [qp] | t i o p s [0o] | t u o u u [9i] | e y u i s [6u] 0 e r t s s s [7a] [Q] r [I] [I] | [9a] [3a] 7 e r [W]
+
+p a [6s] 0 e [ra] [ts] u f p [0a] r [I] o a u u u [4tp] q e [to] p t s [q8] [ou] w y o u 1 i u [2i] 9 q [eu] i y s,
+[6d] 0 [de] [rf] [ts] u p e [is] 9 e [yp] [0ya] r [yo] | [6p] 0 r t u e
+
+s d [osf] 8 0 [wod] [tof] y u [ho] [wad] y o p a w [up] [5ua] [ups] e | [rua] [tps] u [pf] e [oaf] 0 w r [uoa] 0 r,
+[4tp] [qa] [es] t [5a] [9s] [wd] r [oa] f [3od] [0os] [6us] e | 6 [gp] 9 [0pf] q [epd] 9 [yps] 9 [pf] e r y [up] y a [rp] [WO] 0 [W] r u
+
+f f [6sf] j [0e] t [sfh] w t [ush] [qf]-[td]-[es]-[pi] u p [ia] s [5d] 9 w [ris] d y [dh] w [8of] w y u o 0 [ua] [rf] [sfj] 0 e s [5h] 0 w [sh] [qpf] [td] [is] p u p [ea] [qs] [ipd] y s d a [up] | [6pu] 0 r y T
+--------------------------
+p a 4ips q t e ips ips t ya ya q tp ryo 0wr ru w ru uo uo r a tup q etu ry ryo wry wru 8 0 w r t 0y u i o tp a 8s 2d 9 q eips uoa 0 uos ruod upsf 0 ups ya tp etu 0et 6e 29 qey ey qey qeyi eyi qeyi yip yip eyip iops 30 upa upa 30upa 30upad 30af 30 pj ak 6sl 0 e rak tsl udz pfx ejb 0kn rhv wd z uak oh uf ra wts 4ep q e uf 5yd woh r uig 8uf w yuo tuos t uid of o f yg pf ig dl fz gx jb x 6l 0k e rfj tsf ups a p 9is a p p 0ya 0ryo 6yup 0 y u u ep
+----------------------------
+
+Ever17 out of infinity karma
+[lp] f l x [ko] f k x [ji] s l d [ht] o f o [gy] p [gd] [lp] [ft] o [hs] [lo] [zr] [I] [ju] [I] [fku] | [O],
+
+[lp] f l x [ko] f k x [ji] s l d [xt] o f [tx] [cy] p [ls] g [fko] [xku] [j6] 0 r t o a s d 
+
+[s6] 0 [st] [0f] [a5] 0 [ar] [0f] [p4] 8 [se] 7 [o8] w [tu] [uw] [i9] e [it] [sy] [u8] w [uo] [s8] [d7] [Q] [py] [Q] [a0] r u [O] 
+
+[s6] 0 [st] [f0] [a5] 0 [ar] [0f] [p4] 8 [se] 7 [f8] w [g-tf] [fe] [pd9] e [ts] d [uope] [poaf] [p6] 0 r y [T] e 0 [ef] 
+
+[j9] e t [ij] [j9] [he-h] t [g-oh-8] w r [u-y] 8 w r [uf] [g5] 9 r [g9] [g5] [uh-f] t [dr] [f6] 0 u 0 y 0 e [s0] 
+
+[d9] e t [id] [d9] [ef-g] t [ho-f-wu0] [9qyd-f-d] [ste8] [ste0] [d9] [Q] [r-d-fq] [gry] [Q] [jey] [Q] [j0] r [I] [kr-j] [hda0] 
+
+[s6] 0 [stu] [0f] [a5] 0 [aru] [0f] [p4] 8 [set] 7 [o8] w [tu] [uw] [i9] e [it] [ys] [u8] w [uo] [s8] [d7] [Q] [pyi] [Q] [a0] r u [O] 
+
+[s6] 0 [stu] [0f] [a5] 0 [aru] [0f] [p4] 8 [set] 7 [f8] w [g-fet] [wf] [dp9] e [ts] d [aur] [oaf] [p6] 0 r y [T] 
+
+[j-lp] l x [h-ko] k x [g-ji] l [shuo], [ad] [sf] [gy] u [gi] l [ft] d [hu] l [zr] [I] [gj] p [fku] [H] 
+
+[lp] f [ls] [xf] [ko] f [ka] [xf] [ji] f [lp] f [xt] o f [xa] [cy] p [ls] g [kfo] [xu] [je] u a s h
+
+-----------------
+Fur Elise
+fDfDf a d s (p6) 0 e t u p (a3) 0 [W] u [O] a (s6) 0 e u 
+
+fDfDf a d s (p6) 0 e t u p (a3) 0 [W] u s a (p6) 0 e 
+
+a s d (f8) w t - o g f (d5) w r - i f d (s6) 0 e - u d s (a3) 0 u u 
+
+f u f f x DfDfDfDfDf a d s (p6) 0 e t u p (a3) 0 [W] u [O] a (s6) 0 e u 
+
+fDfDf a d s (p6) 0 e t u p (a3) 0 [W] u s a (p6)
+
+Silent Hill 
+6 0 t 0 6 q t q 8 w t w 9 w r w 
+6 0 t 0 6 q t q 8 w t w 9 w r o
+[f6] 0 t 0 6 q t [qh] [s8] w t w 9 w r o
+[f6] 0 t 0 6 q t s [o8] w t w 9 w r w
+6 0 [th] [0h] [6h] [qg] [tf]q 8 w t [wd] [9d] [wf] d s 
+6 0 [th] [0h] [6h] [qj] [th]q 8 w t [wl] [9l] w [rk] w
+6 0 [th] [0h] [6h] [qg] [tf]q 8 w t [wd] [9d] [wf] d s 
+6 0 [th] [0h] [6h] [qj] [th]q 8 w t [wl] [9l] w [rk] w
+[6l] 0 t k [6j] q [tk] [ql] [8z] w [tl] w k w r w 
+[6l] 0 t k [6j] q [tk] [ql] [8z] w [tl] w k w r w 
+6 0 t 0 6 q t q 8 w t w 9 w r w 
+6 0 t 0 6 q t q 8 w t w 9 w r w 8
+
+We Were In Love _t-ara & Davichi 
+
+j k [le] u-[kp] [ju] [h0] r-u o.
+[jq] t-[hi] [gt] [f8] w t u.
+[f9] e [dy] [se] [a5] [s9] [aw] o [p6] 0 e r t ,
+
+j k [le] [lu] [kp] [ju] [h0] r u.
+[fr]-h [jq] [jt] [hi] [jt] [f8] w t.
+[fw] [g9] e [hy] [je] [k5] [j9] [hw] [j9] [f8] w t w u w.
+[jt] [kw] [le] [lu] [zp] [lu] [k0] r u.
+[lr]-k [jq] [kt] [li] [zt] [x8] w t u.
+[x9] e [zy] [le] [k5] [l9] [kw] h [j6] 0 e r t,
+
+s-d [fe] [du] [fp] [gu] [f0] r u.
+s-d [fq] [dt] [fi] [ht] [f8] t w.
+[fw] [g9] e [hy] [je] [k5] [j9] [hw] [g9] [f8] w t w u,
+
+s-d [fe] [ju] [jp] u [f0] [kr] [ku] r [lq] [kt] [ji] [ht] [f8] w t u.
+[f9] e [dy] [se] [d5] [d9] [fw] [h9] [j6] 0 e r t. 
+f j k [l6] [l0] [ke] [j0] [h3] 7 0.
+f-h [j4] [j8] [hq] [j8] [f1] 5 8.
+[f0] [g9] e [hy] [je] [k5] [j9] [hw] [j9] [f8] w t w u w.
+[jt] [kw] [l6] [l0] [ze] [l0] [k3] 7 0.
+l-k [j4] [k8] [lq] [z8] [x1] 5 8 0.
+[9x] e [yz] [le] [5k] [9l] [kw] h [6j] 0 e r t
+
+Chrono Trigger - Peaceful Days
+[8o] i u y [9i] u y t [9t] y u y [qe] [et] [5t] [5r]
+[8w] 0 [wu] 0 [6i] u [wy] t [4o] 6 9 [qy] [5y] 7 9 w
+[8w] 0 [wu] 0 [6i] u [wy] t [3o] 7 0 w r w [rp] a
+[6s] t [ua] [tp] [3o] w u w [qp] t o i [8u] w [7y] w
+
+[6t] [0r] [wt] [0u] y [Q] e t [5t] 6 7 9 [wy] q 0 [9o]
+[qp] t o p [5o] r y i [8i] w [qu] y [T] e [ey] u
+[9yi] e [qu] y [5et] 9 [wy] 9 [8t] w q w 0 w
+[8w] 0 [wu] 0 [6i] u [wy] t [4o] 6 9 [qy] [5y] 7 9 w
+[8w] 0 [wu] 0 [6i] u [wy] t [3o] 7 0 w r w [rp] a
+[6s] t [ua] [tp] [3o] w u w [qp] t o i [8u] w [7y] w
+[6t] [0r] [wt] [0u] y [Q] e t [5t] 6 7 9 [wy] q 0 [9o]
+[qp] t o p [5o] r y i [8i] w [qu] y [T] e [ey] u
+[9yi] e [qu] y [5et] 9 [wy] 9 [8t] 0 w q 0 u
+[9yi] e [qu] y [5et] 9 [wy] 9 [8t] 0 w q 0 q 0
+[x9] e [zy] [le] [k5] [l9] [kw] h [j6] 0 e r t.
+
+Somewhere over the rainbow
+[1t] 5 8 0 [6s] 0 e t [3a] 7 o p a w s e [4t] 8 q e p e t i
+[3o] 8 0 w u w t w [4e] 8 q e i w t i [1u] 5 t y [6u] 0 i w
+[2y] 6 r t [5y] 9 u q [1t] 5 8 0 t
+[1t] 5 8 0 [6s] 0 e t [3a] 7 o p a w s (E) [4t] 8 q e p e t i
+[3o] 8 0 w u w t w [4e] 8 q e i w t i [1u] 5 t y [6u] 0 i w
+[2y] 6 r t [5y] 9 u q [1t] 5 8 0 t
+o [8u] o [wu] o [eu] o [wu] o [9i] o [qi] o [wi] o [ri] o p 8 0 w p 0
+w t y r w q 9 
+o [8u] o [wu] o [eu] o [wu] o I p I p I p I p a
+9 q e a q e t d 9 8 6 e 5 4 2
+
+[1t] 5 8 0 [6s] 0 e t [3a] 7 o p a w s e [4t] 8 q e p e t i
+[3o] 8 0 w u w t w [4e] 8 q e i w t i [1u] 5 t y [6u] 0 i w
+[2y] 6 r t [5y] 9 u q [1t] 5 8 0 t
+o [8u] o [wu] o [eu] o [wu] o [9i] o [qi] o [wi] o [qp] a [8s] [wu] [to] [us]
+[of] [sh] [fl] [hx] [lxvm]
+
+A simple wish (viet)
+f l k [j6] 0 e r t k l x [k0] r u [I] o k v [C] [x8] w t y u [C] v n [C] [Q] r y [I],	|
+z x [c9] e y x [x0] r zu-l-k [l6] 0 e r t | j k [lq] t i z [kw] y [hi] | [j6] 0 e r t. 	}x2
+
+f l k [j6] 0 [ke] [l0] [k5] 9 [hw] 9 [jq] [ht] [hi] [gt] [h0].
+
+r [lu] k [j6] 0 [ke] [lt] [x0] r [ku] o [jq] [kt] [lw] [hy] [j6] 0 e r t.
+
+j k l [x8] w [zt] [lw] [z5] 9 w r [c9] e [xy] [ze] [x6] [f0] [je] [kt] [lq] t [ki] [lq] [z5] 9 [hw] 9 [x8] [zw] [lt] [zw] [x0]. 
+
+j k l [x8] w [zt] [lu] [zw] y o | [c9] e [xy] [zi] [x6] [f0] [jt] k [lq] t [ki] [lq] [zw] k [ho] w [je] u p a s,
+
+[gq] [ht] [ji] [xt] [zw] [yo] q | [k0] [lr] [zu] [ko] [l6] 0 e h [gq] [ht] [ji] [xq] [zw] k [zo] [zw] [x0],
+
+j k l [x8] w [zt] [lu] [zw] y o | [c9] e [xy] [zi] [x6] [f0] [jt] k [lq] t [ki] [lq] [zw] k [ho] w [je] u p a s
+
+Aurora's theme - Child of light
+[se] t u d [ef] t d s [ft] u o u t u o u
+[se] t u d [ef] t d s [ft] u o u t u o u [d9] q e s [aw] r s d
+[se] a p u t u f u [d9] q e s [aw] r s d
+[se] a p u t u f [gy] p g f [aw] r s a [ft] u s a [pi]
+u f [gy] p g f [aw] r s d
+[se] a p u t u [et6]
+
+Tong hua - Jay chou
+https://www.youtube.com/watch?v=0Qx1s17ktCo
+w o i [u8] 0 u i-u 7 0 u i [u6] i [u0] y-t 6 t t r [4-t] 8 q e t [5-t] 9 w-r, o-a,
+[utw8] w y u w u y, [te6] 0 r t 0 e t r [e4] 8 w [eq] 8 e w, 
+[w5] 9 [tw] 9 [rw] w t r [t8] 0 w 8 7 w t r [t6] 0 w 6 5 w t r [t4] 8 q t [t8] [eq] e w 5 9 [tw] 9 [rw] w t r [t8] 0 w 8 7 w u,
+y-[y6] 0 [te] 0 6 w [t5] r [t4] [e8] q e [e4] [t8] [pe] o 5 9 [tw] 9 [rw] y y i [i4] [u7] [u0] w r u [u0] r [y6] t [te] 0,
+r [te] t [re] [t5] [i4] 8 q e [oq] i [ue] y 5 9 [yw] 9 [rw] y [y9] i [i4] [u7] [u0] w r u [u0] a [au6] p [ar] [ste],
+s [uw] t [pq] e t p [qtp] o [ow] [9-wo] 5 9 [tw] 9 [tw] w o i [u8] 0 [wu] i-u 7 0 [wu] i [u6] i [u0] y-t 6 t [ue] o [pq] t [pi] p-o 5 y [yw] i [ut8] w t w 0 t [uw] o [pq] t [pi] p-o 5 y [y9] i [u8] i [u7] y-t 6 0 y u [eq4] q e t [t5] 9 [rw] r-t 8-t 
+0 w 0 8 0 [tw] 0 5 9 [ytw] 9 [ytw] y y i [i3] [u7] [u0] w r u [u0] r [y6] t [te] 0,
+r [te] t [re] [t5] [i4] 8 q e [oq] i [ue] y 5 9 [tw] 9 [rw] y [y9] i [i3] [u7] [u0] w r u [u0] [a0] [au6] p [ar] [ste],
+s [uw] t [pq] e t p [qtp] o [ow] [9wo] 5 9 [tw] 9 [tw] w o i [u8] 0 [wu] i-u 7 0 [wu] i [u6] i [u0] [ey]-t 6 t [ue] o [pq] t [pi] p o 5 y [yw] i [ut8] w t w 0 t [uw] o [pq] t [pi] p-o 5 y [y9] i [u8] i [u7] y t 6 0 y u [eq4] q e t [t5] 9 [rw] t [t8] 
+
+Naruto Shippuuden Yuukimaru's Theme
+https://www.youtube.com/watch?v=xA2PDTrOJCk
+j l z x j j l z v x x v b v x x z x k l j
+[6p] 0 e [0s] d 0 e f [4p] 8 q 8 e 8 q 8 [5p] 9 w [9s] [rd] 9 w h.
+[8f] w t w u w [tf] h [6j] 8 q 8 e 8 [qh] f [6f] 0 e 0 t 0 e 0.
+
+[5d] 9 w [9f] [ea] 9 w s [6p] 0 e 0 t 0 e 0 6 0 r 0 t 0 e 0.
+[6p] 0 e [0s] d 0 e f [4p] 8 q 8 e 8 q 8 [5p] 9 w [9s] [rd] 9 w h.
+
+[8f] w t w u w [tf] h [6j] 8 q 8 e 8 [qh] f [6f] 0 e 0 t 0 e 0.
+[5d] 9 w [9f] [ea] 9 w s [6p] 0 e 0 t 0 e 0 6 0 r 0 t 0 e 0.
+
+[6p] 0 e [0s] d 0 e f [4p] 8 q 8 e 8 q 8 [5p] 9 w [9s] [rd] 9 w h
+[8f] w t w u w [tf] h [6j] 8 q 8 e 8 [qh] f [6f] 0 e 0 t 0 e 0
+
+[5d] 9 w [9f] [ea] 9 w s [6p] 0 e 0 t 0 e 0 6 0 r 0 t 0 e 0
+[6p] 0 e [0s] d 0 e f [4p] 8 q 8 e 8 q 8 [5p] 9 w [9s] [rd] 9 w h
+
+[8f] w t w u w [tf] h [6j] 8 q 8 e 8 [qh] f [6f] 0 e 0 t 0 e 0
+[5d] 9 w [9f] [ea] 9 w s [6p] 0 e 0 t 0 e 0 6 0 r 0 t 0 e 0  [60p]
+
+Braveheart Theme
+6 0 e 0 r 0 t 0 6 0 e 0 r 0 t 0 6 0 e 0 [ru] 0 [to] 0
+[4p] 8 q 8 [wp] 8 [es] 8 [5a] 9 w [9s]-a-[ep] 9 [ro] 9
+[6o] 0 e 0 r 0 [tp] 0 [6u] 0 e 0 [ru] 0 [to] 0
+[4p] 8 q 8 [wp] 8 [es] 8 [5a] 9 [ws] [9a] [ep] 9 [ro] 9
+[6o] e 0 [rp] 0 t 0 6 0 e 0 [rf] [0h] [ij] e t q [ej] q [tl] e
+[ok] r y [wl]-k-[rj] w [yh] r [eh] u p u a u [sj] [uh]
+[ef] u p u [af] [0h] [ij] e t q [ej] q [tl] e
+[ok] r [yl]-[wk]-[rj] w [yh] r [eh] u p u [aj] u s u
+e u p u [af] u [sh] u [ij] j h [yd] o s d [ug] s f [td] p s [ep] i
+e t y u y u y t r e
+
+Yuukimaru Test 2
+[6p] 0 e [0s] d 0 e f [4p] 8 q e,
+[5p] 9 w [9s] [rd] 9 w h [8f] w t u,
+[tf] h [6j] 8 q e, [qh] f [6f] 0 e t,
+[5d] 9 w [9f] [ea] 9 w s [6p] 0 e t, 6 0 y t
+
+test 1 - Child of light boss theme
+e r t y [eu] [ei] [oe] [eu]
+pasps s pasps s
+sdfsf f sdfsf f
+gfd gg gfdsa a ff [O][O] uiu uu
+[ep]asps [es] [up]aspsps
+[ts]dfsf [tf] [os]dfsf [of]
+//gfd gg gfdsapapad d [O][O] [r O]p[O]p[O]p[O]p
+
+One Summer Day | Spirited Away (by 
+f f f f d f j f dd |
+d d d d s d h d s a s |
+pas s s s s |
+pas s s s s a s |
+pas s s s s h | s d |
+f f f f d f j f dd |
+d d d d s d h d s a s |
+pas s s s s |
+pas s s s s a s |
+pas s s s s h | g D d |
+f | g | h h | h h g f d d fs |
+fg h h | h h g f d d f |
+s a f |
+p s |
+s d f | p s |
+j k l l z l k
+f h j j h g h
+o o o i i Y i t i o | i o
+j k l l z l k
+f h j j h g h |
+h h g g D g
+h H J H H h H
+h H J l |
+H J l | l k l z |
+h l k l |
+f f d f j f j j j j h j z k j l |
+k | h | j | v | c | l | z |
+|
+f d f k f |
+d s d h d |
+pas | p a s d f |
+j k l l z l k k
+f h j j h g h h
+o o i i Y i | t i o | O o
+p a s s d s a
+u o p p o i o
+o o i i Y i
+o O P O O o O
+o O P s
+O P s |
+s a s d |
+o s a s
+
+Jingle Bells by BumKu
+w 8w u 5y t 8w 0 5 w 8w u 5y t 4e q 8 e
+9e i 6u y 5r w 9 o 5p o 9i y 8u 0 5 0
+8w u 5y t 8w 0 5 w 8w u 5y t 4e q 8 e
+9e i 6u y 5o o 9o o 5p o 6i 7y 8t 5o
+wu wu wu wu wu wu wu wo 0t 0y wu 0 5 0
+ei ei ti ti wi wu wu wu wu eu ey ey eu 9y wo
+wu wu wu wu wu wu wu wo 0t 0y wu 0 5 0
+ei ei ti ti wi wu wu wu wu 5p o 6i 7y 8t tuos
+
+
+Umi ga mieru gai - Kiki delivery service by mizakuta
+e [sfk] j h h G f G [oj] h G h [fhz] | l | [sfk] j [fj] h [dj] || [ak],
+a [h0] r o a G r I a [tf] u [od] s [rd] y [yo] | [ep] s f h G d a p [wa] y p o I o p.
+a [h0] r o a [QDG] r I a [waf] u d s d u [ua] | [ep] s f h [aj] k G d [0f] o a o u,
+a [h0] r o a G r I a [tf] u [od] s [rd] y [yo] | [ep] s f h G d a p [wa] y p o I o p.
+a [h0] r o a [QDG] r I a [waf] u d s d u [ua] | [ep] s f h [aj] k G d [0f] o a o u,
+f-G-[eh]-[sh]-[sh]-[sh]-[esh] G f G [rd] I p I d s a
+s-d-[tf]-[osf]-[osf]-[osf]-[tosf] d s d [wa] y o y w y o
+a O p s f d y p s P a d G [oaj] h G h [ofk] | j k [eof] | d f [eoa] | p a u | [YI] 
+a [h0] r o a G r I a [tf] u [od] s [rd] y [yo] | [ep] s f h G d a p [wa] y p o I o p
+a [h0] r o a [QDG] r I a [waf] u d s d u [ua] | [ep] s f h [aj] k G d [0f] o a o u
+0 [of]-d-f | s-a-[es] | p-O-p,
+y | [pd]-S-d | a-P-[woa] | o-I-o,
+t | [os]-a-s | p-O-p | s-f-s,
+[rp] s-a-p-o-I-u-I-[uo],
+0 0 [of] D f | s a [es] | p a s d [ypsf] G h G j h G d t | [os] a s | p O p | s f s | [rp] | s a p o I u Y u,
+0 0 [oah] G h | a | [es] d s a s | y | G g G | p | [wa] s a p a,
+t | [of]-D-f O p-a-p-O-p | r | D-S-D I [0o] o I u I o a [qpd] t [ts] [qps] t [tp] [qp] t o I G D S [ID] r
+a [h0] r o a G r I a [tf] u [od] s [rd] y [yo] | [ep] s f h G d a p [wa] y p o I o p
+a [h0] r o a [QDG] r I a [waf] u d s d u [ua] | [ep] s f h [aj] k G d [0f] o a o u
+f-G-[eh]-[sh]-[sh]-[sh]-[esh] G f G [rd] I p I d s a .
+s-d-[tf]-[osf]-[osf]-[osf]-[tosf] d s d [wa] y o y w y o.
+a O p s f d y p s P a d G [oaj] h G h [ofk] | j k [eof] | d f [eoa] | p a u | [YI],
+a [h0] r o a G r I a [tf] u [od] s [rd] y [yo] | [ep] s f h G d a p [wa] y p o I o p
+a [h0] r o a [DQG] r I a [waf] u d s d u [ua] | [ep] s f h [aj] k G d [0f] o a o u
+e [sfk] j h h G f G [oj] h G h [fhz] | l | [sfk] j [fj] h [dj] | [ak]
+
+My Neighbor Totoro, Path Of The Wind
+u y e u y e u y e u y e y t w y t w y t w y t w
+6 u y e u y e 6 u y e u y e 6 y t w y t w 6 y t w y t w [6o] 
+e t [4y] 9 [ey] u [4t] 9 e t [3y] 9 [wy] o [3u] 9 [wu] o [2p] [6p] [9p] s [2a] [6p] [9o] i
+[3u] 9 y e [3u] 9 e t [4y] 9 [ey] u [4t] 9 e t [3y] 9 [wy] o [3u] 9 [wu] o [2p] [6p] [9p] 
+s [0a] p [3u] e [t6] 0 w 0 t 0 t r E i [9i] E [4i] 9 E 9 4 E E i [4i] 9 E u y
+[6u] i [0u] y [t6] 0 w 0 [6u] 0 w 0 [6u] w q 0 E i [9i] E [4i] 9 E 9 4 E E i [4i] 
+9 E u y [2u] i [0o] t 6 e 0 w [5e] 9 w 3 9
+e t [4y] 9 [ey] u [4t] 9 e t [3y] 9 [wy] o [3u] 9 [wu] o [2p] [6p] [9p] s [2a] [6p] [9o] i
+[3u] 9 y e [3u] 9 e t [4y] 9 [ey] u [4t] 9 e t [3y] 9 [wy] o [3u] 9 [wu] o [2p] [6p] [9p] 
+s [0a] p [3u] e [t6] 9 w 9 t e t y q e q [ey] u [t6] e r t e t y q e q [ey] 
+o [6u] e r t o e r t [6eto]
+
+To love's end ( inuyasha theme ) by mizakuta
+d g [oh] | h J [psl] | z c [odz] | l J [psh] | z l [oh] | z l [psh] | g | [5d]. >>
+9 w e E | [ed] g h E [yh] J [ql] t [iz] c [wz] y [ol] J [qh] t [iz] l [9h] E [yz] l [qh] t [ig] |[wh] y o p P,
+[ypd] [ig] [oh] ^ w [ig] [4osh] 8 [qepj] [ig] [5oh] 9 [wig] [ts] [4yd] 8 [qeyd] [ig] [oh] ^ 
+[9w] [ig] [4oh] [PJ] [qepj] [ig] [5yod] [wt] 6 E 5,
+[9yd] [6gi] [oh] ^ w [ig] [4osh] 8 [qepj] [ig] [5oh] 9 [wig] [ts] [4yd] 8 [qed] s o ^ [wd] s [4o] 8 [qei] | [5o] 
