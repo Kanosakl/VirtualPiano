@@ -575,3 +575,30 @@ j h l|l|z|l
 
 shionari - clannad (WIP)
 o - [qp] [tf] [up] [to] [qp] t u t w r y [ro] [wp] [rf] [yp] [ro] [ep] [tf] [up] [to] [ep] t u [tu] [wo] t u [ty] [wu] [to] [up] [ta] [qp] [tf] [up] [to] [qp] t u t w r y [ro] [wp] [rf] [ya] [rs] [ea] [ts] [ua] [tp] [eu] t u t e t u [ty] [wu] [to] [up] [ta] [qp] [tf] [up] [to] [qp] t u t w r y [ro] [wp] [rf] [yp] [ro] [ep] [tf] [up] [to] [ep] t u [tu] [wo] t u [ty] [wu] [to] [up] [ta] [qp] [tf] [up] [to] [qp] t u t w r y [ro] [wp] [rf] [ya] [rs] [ea] [ts] [ud] [tf] [ej] t u t e t [up] t [wa] t [uh] t [qd] [tf] [uj] [tf] [qd] [tf] [uj] [tf] [wd] [rf] [yj] [rf] [wd] [rf] [yk] [rf] [ed] [tf] [uj] [tf] [ed] [tf] [uk] [tf] [ed] [tf] [ul] [tf] [wk] [tf] [uj] [tf] [qd] [tf] [uj] [tf] [qd] [tf] [uj] [tf] [wd] [rf] [yj] [rf] [wd] [rf] [yk] [rf] [ed] [tf] [uj] [tf] [ed] [tf] [uk] [tf] [ed] [tf] [ul] [tf] [wk] [tf] [uj] [tf] [qd] [tf] [uj] [tf] [qd] [tf] [uj] [tf] [wd] [rf] [yj] [rf] [wd] [rf] [yk] [rf] [ed] [tf] [uj] [tf] [ed] [tf] [uk] [tf] [ed] [tf] [ul] [tf] [wk] [tf] [uj] [tf] [qd] [tf] [uj] [tf] [qd] [tf] [uj] [tf] [wd] [rf] [yj] [rf] [wd] [rf] [yk] [rf] [ed] [tf] [uj] [tf] [ed] [tf] [ul] [yk] - [6p]-[0s]-[ef]-j﻿
+
+Koyomi Oniichan - Bakemonogatari (WIP) 
+Transpose: 4
+Tempo: 80
+(source: https://virtualpiano.net/music-sheet/koyomi-oniichan-bakemonogatari-satoru-kosaki/)
+[if] g [sf] g [ha]| f g
+[uf] g [ha]| [ph] g f g
+[yf] si p [of] sw d [ts] so p [fe]| |
+[if] g [sf] g [ha]| f g
+[uf] g [ha]| [ph] g f g
+[yf] si p [of] sw d [ts] so f [ts]| |
+[th]| [sf]| [od]| f|
+[ed] s [ud] f p| u f
+[qjf]| [tf]| [id]| s|
+[ws] d [yf] d o| |
+[th]| [sf]| [od]| f|
+[ed] s [ud] f p| u f
+[qjf]| [tf]| [ws]| [of]|
+[ts]| w| 8||
+so[qp] pi o [ws] s
+so[p0] pu o [se] f
+so[p9] pi o [ws]
+so d [ts] so p [fe]||
+so[qpg] pi o [ws] s
+so[pf0] pu o [fe] s
+so[pd9] pi o [ws]
+so d [ts] sw f [s8]
