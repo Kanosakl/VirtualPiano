@@ -602,3 +602,27 @@ so[qpg] pi o [ws] s
 so[pf0] pu o [fe] s
 so[pd9] pi o [ws]
 so d [ts] sw f [s8]
+
+Chiki Chiki Ban Ban - paripi koumei OP 1
+Transpose: -1,
+Tempo: 128,
+(source: https://musescore.com/user/9080451/scores/7868606)
+g, s, g h H h D g, 
+S, g h H h D H,
+D, H J K J H h,
+D, h H-H-J-J-H h
+g, s, g h H h D g, 
+S, g h H h D H,
+D, H J K J H h D,
+h H J s D g,
+g g h H,
+H H H-H H h H K J~H-J,
+s D g,
+g h H,
+D D D H H H H H h H K J-H-J,
+K K K g, D-g,
+K K K g D D g, S,
+H H H-H H h H K J~H-J,
+K K K g D D g,
+K-K K K g D D g, S,
+H H H-H H h H K J~H-J
